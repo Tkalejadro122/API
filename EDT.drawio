@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T17:04:28.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="21.1.0" etag="QolPIasSISJJ2eIN7jlw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T17:16:18.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="n534-RLUx4aqTWieIqJi" version="21.1.0" type="github">
   <diagram name="Página-1" id="_r_3K5kRRyNw7OYGr1nD">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7_OP3RU1LLzvX_mZBf--1" target="z7_OP3RU1LLzvX_mZBf--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7_OP3RU1LLzvX_mZBf--1" target="z7_OP3RU1LLzvX_mZBf--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7_OP3RU1LLzvX_mZBf--1" target="z7_OP3RU1LLzvX_mZBf--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--1" value="Aplicativo web de gestión de&amp;nbsp; archivos y evidencias del programa de arquitectura de la Universidad Francisco de Paula Santander" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-380" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7_OP3RU1LLzvX_mZBf--2" target="z7_OP3RU1LLzvX_mZBf--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7_OP3RU1LLzvX_mZBf--2" target="z7_OP3RU1LLzvX_mZBf--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--2" value="&lt;div&gt;Un Software ArquiEvidencia&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--3" value="Despliegue del Software." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--4" value="27 docentes capacitados en el uso de la aplicación Arquieviencia." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--8" value="iteración 1:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7_OP3RU1LLzvX_mZBf--9" value="iteración 2:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
